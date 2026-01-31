@@ -24,9 +24,9 @@ Try it out here:
 
 ## 🗂️ Project Structure
 
-Char-Code/
-├── index.html # Main HTML file
-├── style.css # Styles for layout and table
+Char-Code/  
+├── index.html # Main HTML file  
+├── style.css # Styles for layout and table  
 └── script.js # JavaScript logic for event handling
 
 
