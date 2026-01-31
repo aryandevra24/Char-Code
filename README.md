@@ -7,7 +7,7 @@ A simple and interactive webpage that shows the **key**, **keycode**, and **code
 ## 🚀 Demo
 
 Try it out here:  
-👉 [Char-Code on GitHub Pages](https://aryandevra24.github.io/Char-Code/)
+👉 [Char-Code on GitHub Pages](https://github.dev/aryandevra24/Char-Code/)
 
 ---
 
@@ -28,7 +28,6 @@ Char-Code/
 ├── index.html # Main HTML file  
 ├── style.css # Styles for layout and table  
 └── script.js # JavaScript logic for event handling
-
 
 ---
 
